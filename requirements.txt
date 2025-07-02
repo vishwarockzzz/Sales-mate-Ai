@@ -167,7 +167,7 @@ poetry-plugin-export==1.8.0
 portalocker==2.10.1
 posthog==3.6.5
 proto-plus==1.24.0
-protobuf==4.25.4
+protobuf==4.25.8
 ptyprocess==0.7.0
 pulsar-client==3.5.0
 py==1.11.0
