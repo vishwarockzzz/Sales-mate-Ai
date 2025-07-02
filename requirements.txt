@@ -213,7 +213,7 @@ SecretStorage==3.3.3
 secure-smtplib==0.1.1
 selenium==4.24.0
 semver==3.0.2
-setuptools==74.1.2
+setuptools==78.1.1
 shapely==2.0.6
 shellingham==1.5.4
 six==1.16.0
